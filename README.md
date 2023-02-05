@@ -34,7 +34,7 @@
 
 ## Spotlight
 - Figures
-[[https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell/main/spotlight/figures/download.png]]
+![wordcloud](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell/main/spotlight/figures/download.png)
 - Posters
 - Slides
 - Presentations
