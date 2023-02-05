@@ -20,17 +20,11 @@
 
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+![Here](https://github.com/LinEddie0290/stats201-PS1-Eddie/tree/main/data)
 
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+![](https://github.com/LinEddie0290/stats201-PS1-Eddie/tree/main/data)
 
 ## Spotlight
 - Figures
