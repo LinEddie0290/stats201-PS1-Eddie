@@ -20,11 +20,11 @@
 
 
 ## Data
-![Here](https://github.com/LinEddie0290/stats201-PS1-Eddie/tree/main/data)
+[Here](https://github.com/LinEddie0290/stats201-PS1-Eddie/tree/main/data)
 
 
 ## Code
-![](https://github.com/LinEddie0290/stats201-PS1-Eddie/tree/main/data)
+[Here](https://github.com/LinEddie0290/stats201-PS1-Eddie/tree/main/code)
 
 ## Spotlight
 - Figures
