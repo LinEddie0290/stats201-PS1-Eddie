@@ -40,7 +40,7 @@
 ### Data Source
 - Data Source Title and URL
 ### Code Source
-- Code Source Title and URL
+[NLP_Blockchain_SoKs.ipynb](https://github.com/sunshineluyao/design-principle-blockchain/blob/main/code/NLP_Blockchain_SoKs.ipynb)
 ### Articles
 - Article Source Title and URL
 ### Literature
