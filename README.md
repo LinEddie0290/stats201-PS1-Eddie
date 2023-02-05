@@ -29,12 +29,9 @@
 
 ## References
 
-### Data Source
-
 ### Code Source
 - [NLP_Blockchain_SoKs.ipynb](https://github.com/sunshineluyao/design-principle-blockchain/blob/main/code/NLP_Blockchain_SoKs.ipynb)
 - [Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb](https://github.com/sunshineluyao/design-principle-blockchain/blob/main/code/NLP_Blockchain_SoKs.ipynb)
-### Articles
 
 ### Literature
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
