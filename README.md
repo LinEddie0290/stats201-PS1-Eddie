@@ -34,6 +34,7 @@
 
 ## Spotlight
 - Figures
+- spotlight/wordcloud.png
 - Posters
 - Slides
 - Presentations
